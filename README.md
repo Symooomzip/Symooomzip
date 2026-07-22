@@ -1,15 +1,77 @@
-# 💫 About Me:
-## About Me<br><br>I am a Data Science & Artificial Intelligence graduate with a strong interest<br>in building production-ready machine learning and deep learning systems.<br><br>My experience covers end-to-end AI workflows, including data collection,<br>feature engineering, model training, evaluation, and deployment.<br>I focus on writing clean, reproducible code and managing projects using<br>structured workflows inspired by industry practices.<br><br>My main interests include computer vision, NLP, large-scale data systems,<br>and applied AI for real-world decision-making.<br><br>This portfolio reflects my personal and academic projects developed<br>independently and continuously improved after graduation.<br>
+<div align="center">
 
+<table>
+<tr>
+<td width="370" valign="top"><img src="assets/avi-ascii.svg" width="370" alt="ASCII portrait"></td>
+<td width="490" valign="top"><img src="assets/info-card.svg" width="490" alt="Mohammed Fakir — info card"></td>
+</tr>
+</table>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=symooomzip&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=symooomzip&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=symooomzip&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="assets/contrib-heatmap.svg" width="860" alt="Contribution heatmap">
 
----
-[![](https://visitcount.itsvg.in/api?id=symooomzip&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+## About
+
+Master's in **Data Science & Artificial Intelligence** (Mundiapolis, 2026) on top of a
+Bachelor's in **Full Stack Development** — which means I own the whole path, from the
+data pipeline to the model to the interface someone actually clicks.
+
+Most recently at **DISLOG GROUP**: built an ETL pipeline centralizing ERP data into a
+SQL Server warehouse, then ran customer segmentation (RFM + K-Means), churn prediction
+(**XGBoost, AUC-ROC 0.81**) and CLV modeling on top of it, with a Power BI layer for the
+business side.
+
+Currently working with LLMs — RAG systems, fine-tuning with LoRA/PEFT — and computer
+vision. **Open to Data Scientist / Data Engineer / AI Developer roles.**
+
+<br>
+
+## Stack
+
+**Languages** &nbsp;`Python` `SQL` `Java` `JavaScript` `C/C#` `PHP`
+
+**ML & AI** &nbsp;`scikit-learn` `XGBoost` `PyTorch` `TensorFlow` `Keras` `OpenCV` `YOLOv8`
+
+**Generative AI** &nbsp;`LLM` `RAG` `LoRA/PEFT` `LangChain` `ChromaDB` `Hugging Face`
+
+**Data Engineering** &nbsp;`ETL` `Data Warehousing` `SQL Server` `MongoDB` `MySQL` `Power BI`
+
+**Web & Mobile** &nbsp;`React` `Node.js` `.NET` `REST APIs` `Flutter`
+
+**Tools** &nbsp;`Git` `Docker` `Jupyter` `MLflow` `AWS` `Azure`
+
+<br>
+
+## Selected work
+
+| Project | What it does | Result |
+|---|---|---|
+| **Customer intelligence @ DISLOG** | ETL → SQL Server DW, RFM + K-Means segmentation, churn model, CLV | AUC-ROC **0.81** |
+| **AI Legal Assistant — Moroccan law** | RAG chatbot: legal corpus indexing, embeddings + vector search, source-grounded answers | LangChain · ChromaDB |
+| **Oil spill detection** | Deep learning segmentation on satellite imagery | IoU **0.88** |
+| **Student behavior detection** | YOLOv8 object detection | mAP50 **0.80** |
+| **Global markets sentiment** | 10k+ articles scraped (BBC, Bloomberg, Reuters) + NLP sentiment vs. volatility | 4 Power BI dashboards |
+
+<br>
+
+## Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=symooomzip&include_all_commits=true&count_private=true&hide_border=true&bg_color=171a1b&title_color=b600a8&text_color=d7e2ea&icon_color=7621b0">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symooomzip&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=171a1b&title_color=b600a8&text_color=d7e2ea">
+
+</div>
+
+<br>
+
+<div align="center">
+
+[**Portfolio**](https://symo-portfolio.pages.dev) &nbsp;·&nbsp;
+[**LinkedIn**](https://linkedin.com/in/mohammed-fakir) &nbsp;·&nbsp;
+[**Email**](mailto:mr.fakir.mohammed@gmail.com)
+
+</div>
