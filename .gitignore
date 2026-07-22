@@ -1,5 +1,0 @@
-# source photo stays local — only the generated ASCII SVG is published
-assets/me.*
-assets/photo.*
-preview.html
-__pycache__/
