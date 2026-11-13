@@ -18,7 +18,7 @@
 
 I started as a full stack developer and moved into data science, so I tend to build the whole chain: the pipeline that cleans the data, the model, and the API or interface that makes it usable by someone else. Master's in Data Science and AI (Mundiapolis University, Casablanca, 2026), Bachelor's in Applied Computer Science before that.
 
-My final-year internship was on real company data rather than a prepared dataset: a SQL Server data warehouse fed by a Python ETL pipeline (9.2M sales lines, 104,794 customers), RFM and K-Means segmentation, churn prediction with XGBoost (ROC-AUC 0.81) and a four-page Power BI dashboard on top. That work is under NDA, so the repository is private; the projects below are the public ones.
+My final-year internship was on real company data rather than a prepared dataset: a SQL Server data warehouse fed by a Python ETL pipeline (9.2M sales lines, 104,794 customers), RFM and K-Means segmentation, churn prediction with XGBoost (ROC-AUC 0.81) and a four-page Power BI dashboard on top. That work is under NDA, so the repository is private. My public projects are in the repositories pinned on this profile.
 
 ---
 
