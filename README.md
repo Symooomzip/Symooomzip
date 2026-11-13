@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:18011F,45:7621B0,80:B600A8,100:BE4C00&text=Mohammed%20Fakir&fontColor=FFFFFF&fontSize=44&fontAlign=50&fontAlignY=42&desc=Data%20Scientist%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full%20Stack%20background&descAlign=50&descAlignY=70&descSize=17" width="100%" alt="Mohammed Fakir, Data Scientist, AI Engineer, Full Stack background">
+  <img src="assets/banner.svg" width="100%" alt="Mohammed Fakir, Data Scientist, AI Engineer, Full Stack background">
 </p>
 
 <p align="center">
