@@ -1,15 +1,57 @@
-# 💫 About Me:
-## About Me<br><br>I am a Data Science & Artificial Intelligence graduate with a strong interest<br>in building production-ready machine learning and deep learning systems.<br><br>My experience covers end-to-end AI workflows, including data collection,<br>feature engineering, model training, evaluation, and deployment.<br>I focus on writing clean, reproducible code and managing projects using<br>structured workflows inspired by industry practices.<br><br>My main interests include computer vision, NLP, large-scale data systems,<br>and applied AI for real-world decision-making.<br><br>This portfolio reflects my personal and academic projects developed<br>independently and continuously improved after graduation.<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:18011F,45:7621B0,80:B600A8,100:BE4C00&text=Mohammed%20Fakir&fontColor=FFFFFF&fontSize=44&fontAlign=50&fontAlignY=42&desc=Data%20Scientist%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full%20Stack%20background&descAlign=50&descAlignY=70&descSize=17" width="100%" alt="Mohammed Fakir, Data Scientist, AI Engineer, Full Stack background">
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1400&color=B600A8&center=true&vCenter=true&width=640&lines=From+the+ERP+export+to+the+dashboard;9.2M+sales+lines+into+one+data+warehouse;Models+that+come+with+an+API+and+a+UI;Numbers+I+can+trace+back+to+a+file" alt="From the ERP export to the dashboard. 9.2M sales lines into one data warehouse. Models that come with an API and a UI. Numbers I can trace back to a file.">
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=symooomzip&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=symooomzip&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=symooomzip&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://symo-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-symo--portfolio.pages.dev-7621B0?style=flat-square" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/mohammed-fakir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mr.fakir.mohammed@gmail.com"><img src="https://img.shields.io/badge/mr.fakir.mohammed%40gmail.com-18011F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Casablanca%2C_Morocco-B600A8?style=flat-square" alt="Casablanca, Morocco">
+  <img src="https://img.shields.io/badge/Available_now-BE4C00?style=flat-square" alt="Available now">
+</p>
+
+<br>
+
+I started as a full stack developer and moved into data science, so I tend to build the whole chain: the pipeline that cleans the data, the model, and the API or interface that makes it usable by someone else. Master's in Data Science and AI (Mundiapolis University, Casablanca, 2026), Bachelor's in Applied Computer Science before that.
+
+My final-year internship was on real company data rather than a prepared dataset: a SQL Server data warehouse fed by a Python ETL pipeline (9.2M sales lines, 104,794 customers), RFM and K-Means segmentation, churn prediction with XGBoost (ROC-AUC 0.81) and a four-page Power BI dashboard on top. That work is under NDA, so the repository is private; the projects below are the public ones.
+
+Looking for a Data Scientist, Data Engineer or AI Developer role.
+
+<p align="center">
+  <img src="assets/pipeline.svg" width="100%" alt="How I work: raw data, ETL and data warehouse, model, API, application">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=symooomzip&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Projects
+
+| Project | What it does | Result | Built with |
+|---|---|---|---|
+| [**AI Legal Assistant — Moroccan Law**](https://github.com/Symooomzip/AI-Legal-Assistant-Moroccan-Law---RAG-based-System) | Bilingual (French / Arabic) RAG assistant that retrieves the relevant articles and answers with its sources. Vector search weighted by article number, GPT-4o with automatic fallback to Llama 3.3. | 10 legal texts indexed as 1,352 chunks | FastAPI, React, ChromaDB, sentence-transformers |
+| [**Student Behavior Detection**](https://github.com/Symooomzip/student-behavior-detection-yolov8) | YOLOv8m detecting five classroom behaviors on a dataset the team filmed and annotated (425 images, 4,271 boxes). Image, video and webcam demo. | mAP50 0.81 in the original run, see note below | PyTorch, Ultralytics, Gradio |
+| [**Oil Spill Segmentation**](https://github.com/Symooomzip/oil-spill-detection-ml) | Comparison of five segmentation architectures (U-Net, UNet++, DeepLabV3+) with pre-trained encoders on satellite and aerial images. | Best model U-Net / MiT-B2, validation IoU 0.88 | PyTorch, segmentation-models-pytorch, Gradio |
+| [**LoRA Fine-Tuning of a Code LLM**](https://github.com/Symooomzip/lora-codegen-finetuning) | CodeGen-350M fine-tuned on 16,750 instruction / Python code pairs, with a Streamlit app comparing the base and fine-tuned models side by side. | 0.73% of parameters trained, eval loss 0.70 | PyTorch, Hugging Face PEFT, Streamlit |
+| [**This portfolio**](https://symo-portfolio.pages.dev) | The site itself, with an assistant that answers questions about my work and is restricted to a written knowledge base so it cannot invent experience. | Live | React, TypeScript, Cloudflare Workers AI |
+
+**A note on the numbers.** I report what the files show, including when it is less flattering. The student-behavior notebook augmented the dataset before splitting it, so copies of the same photo could land in both train and test: the 0.81 is an upper bound. I rebuilt the pipeline to split first and augment the training set only, and added a test that fails if a source image appears in two splits. The oil spill score is a validation score, not a test score. The LoRA project has an evaluation loss and no code-correctness benchmark.
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,ts,nodejs,dotnet,postgres,mongodb,docker,git&theme=dark" alt="Python, PyTorch, scikit-learn, FastAPI, React, TypeScript, Node.js, .NET, PostgreSQL, MongoDB, Docker, Git">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-XGBoost_%C2%B7_scikit--learn_%C2%B7_PyTorch-7621B0?style=flat-square" alt="ML: XGBoost, scikit-learn, PyTorch">
+  <img src="https://img.shields.io/badge/GenAI-RAG_%C2%B7_LoRA_%2F_PEFT_%C2%B7_ChromaDB-B600A8?style=flat-square" alt="GenAI: RAG, LoRA / PEFT, ChromaDB">
+  <img src="https://img.shields.io/badge/Data-ETL_%C2%B7_SQL_Server_%C2%B7_Power_BI-BE4C00?style=flat-square" alt="Data: ETL, SQL Server, Power BI">
+</p>
+
+<p align="center"><sub>Arabic (native) · French (fluent) · English (fluent)</sub></p>

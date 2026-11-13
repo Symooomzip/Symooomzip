@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 150" width="880" role="img" aria-label="How I work: raw data, ETL and data warehouse, model, API, application">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#7621B0"/>
+      <stop offset="0.55" stop-color="#B600A8"/>
+      <stop offset="1" stop-color="#BE4C00"/>
+    </linearGradient>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#B600A8"/>
+    </marker>
+    <style>
+      .box{fill:#16181A;stroke:url(#g);stroke-width:1.5}
+      .t{font:600 15px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F4F6;text-anchor:middle}
+      .s{font:12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#A9B4BD;text-anchor:middle}
+      .l{stroke:#B600A8;stroke-width:1.5;fill:none}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="880" height="150" rx="14" fill="#0E0F12"/>
+  <rect x="0" y="0" width="880" height="4" rx="2" fill="url(#g)"/>
+
+  <g>
+    <rect class="box" x="24" y="42" width="136" height="72" rx="10"/>
+    <text class="t" x="92" y="74">Raw data</text>
+    <text class="s" x="92" y="96">ERP, images, PDFs</text>
+  </g>
+  <path class="l" d="M164 78 H190" marker-end="url(#a)"/>
+  <g>
+    <rect class="box" x="196" y="42" width="136" height="72" rx="10"/>
+    <text class="t" x="264" y="74">ETL + warehouse</text>
+    <text class="s" x="264" y="96">Python, SQL Server</text>
+  </g>
+  <path class="l" d="M336 78 H362" marker-end="url(#a)"/>
+  <g>
+    <rect class="box" x="368" y="42" width="136" height="72" rx="10"/>
+    <text class="t" x="436" y="74">Model</text>
+    <text class="s" x="436" y="96">XGBoost, PyTorch, RAG</text>
+  </g>
+  <path class="l" d="M508 78 H534" marker-end="url(#a)"/>
+  <g>
+    <rect class="box" x="540" y="42" width="136" height="72" rx="10"/>
+    <text class="t" x="608" y="74">API</text>
+    <text class="s" x="608" y="96">FastAPI, Node.js</text>
+  </g>
+  <path class="l" d="M680 78 H706" marker-end="url(#a)"/>
+  <g>
+    <rect class="box" x="712" y="42" width="144" height="72" rx="10"/>
+    <text class="t" x="784" y="74">Application</text>
+    <text class="s" x="784" y="96">React, Power BI, Gradio</text>
+  </g>
+</svg>
