@@ -37,7 +37,3 @@ I am looking for data scientist or AI engineer roles, and I am comfortable on th
 </p>
 
 <p align="center"><sub>Arabic (native) · French (fluent) · English (fluent)</sub></p>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="A green hill under a blue sky">
-</p>
