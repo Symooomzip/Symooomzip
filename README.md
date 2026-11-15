@@ -16,9 +16,11 @@
 
 <br>
 
-I started as a full stack developer and moved into data science, so I tend to build the whole chain: the pipeline that cleans the data, the model, and the API or interface that makes it usable by someone else. Master's in Data Science and AI (Mundiapolis University, Casablanca, 2026), Bachelor's in Applied Computer Science before that.
+I started as a full stack developer (Bachelor's in Applied Computer Science, Mundiapolis University, Casablanca) and moved into data science with a Master's in Data Science and AI in 2026. I build the whole chain: the pipeline that cleans the data, the model, and the API or interface that makes it usable by someone else. My final-year internship was on real data from a distribution company: a SQL Server data warehouse fed by a Python ETL pipeline, RFM and K-Means segmentation, churn prediction with XGBoost (ROC-AUC 0.81) and a four-page Power BI dashboard on top.
 
-My final-year internship was on real company data rather than a prepared dataset: a SQL Server data warehouse fed by a Python ETL pipeline (9.2M sales lines, 104,794 customers), RFM and K-Means segmentation, churn prediction with XGBoost (ROC-AUC 0.81) and a four-page Power BI dashboard on top. That work is under NDA, so the repository is private. My public projects are in the repositories pinned on this profile.
+The pinned repositories cover retrieval-augmented generation over Moroccan law, oil spill segmentation, classroom behavior detection with YOLOv8, a big data pipeline on market sentiment, and LoRA fine-tuning of CodeGen-350M. I care about numbers I can defend. On the YOLOv8 project the original notebook augmented the data before splitting it, so copies of the same photo could land in both train and test and inflate the score; I rebuilt the pipeline to split first and kept the old results labelled as an upper bound. The oil spill score is reported as a validation IoU, not a test score, and the LoRA project says plainly that only the evaluation loss was recorded.
+
+I am looking for data scientist, data engineer or AI developer roles, and I am happy to talk about any data or AI problem, not only the ones above.
 
 ---
 
