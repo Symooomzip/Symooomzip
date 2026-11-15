@@ -20,8 +20,6 @@ I started as a full stack developer and moved into data science (Master's in Dat
 
 What I care about is the part that usually gets skipped. Where the data really comes from and how messy it is. Whether a metric was measured on data the model never saw. Whether the person who needs the answer can open it, read it and trust it. A good score that nobody can reproduce or explain is not worth much.
 
-My final-year internship, on real data from a distribution company, was mostly that: before any model, there were mixed encodings, missing customer names and orphan keys to deal with, then a SQL Server warehouse, RFM and K-Means segmentation, churn prediction with XGBoost (ROC-AUC 0.81) and a Power BI dashboard people could actually use.
-
 I am looking for data scientist or AI engineer roles, and I am comfortable on the full stack side too. If you have a data or AI problem that needs someone who can take it from raw data to something usable, I would like to hear about it.
 
 ---
